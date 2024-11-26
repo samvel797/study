@@ -1,3 +1,3 @@
-module github.com/samvel797/study/somemodule
+module somemodule
 
 go 1.23.2
